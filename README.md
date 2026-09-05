@@ -1,12 +1,31 @@
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Esmaeil Sadeghi</h1>
+
+<h3 align="center">
+Software Developer | Java Backend Developer
+</h3>
 
 <p align="justify">
-As an accomplished Software Developer and Architect, I excel in object-oriented analysis and adeptly manage all phases of the software development lifecycle. From initial planning and design to implementation and ongoing maintenance, I focus on building robust and efficient software systems. With experience in N-tier and Microservices architectures, I work with a wide range of tools and technologies to develop reliable, maintainable, and high-quality software solutions.
+Esmaeil Sadeghi is a Software Developer and Java Backend Developer focused on
+Java, Spring Boot, Object-Oriented Programming, RESTful APIs, Microservices,
+software architecture, data structures, and algorithms. He is interested in
+building reliable, maintainable, and high-quality software systems and
+continuously improving his software engineering skills.
+</p>
+
+<h2>Java Programming & Data Structures</h2>
+
+<p align="justify">
+This repository contains practical Java programming exercises, examples, and
+implementations related to programming fundamentals and data structures. The
+material covers object-oriented programming, arrays, methods, classes and
+objects, inheritance, polymorphism, exception handling, collections, data
+structures, and algorithms.
 </p>
 
 <h2>Topics</h2>
 
 <p align="center">
+Java Programming &nbsp;·&nbsp;
 Java Fundamentals &nbsp;·&nbsp;
 Object-Oriented Programming &nbsp;·&nbsp;
 Arrays &nbsp;·&nbsp;
@@ -20,18 +39,26 @@ Data Structures &nbsp;·&nbsp;
 Algorithms
 </p>
 
-<h2>Purpose</h2>
+<h2>Developer Profile</h2>
 
 <p align="justify">
-The purpose of this repository is to provide a structured environment for studying Java programming, strengthening problem-solving skills, and implementing fundamental data structures and algorithms through practical exercises.
+<strong>Esmaeil Sadeghi</strong> is a Software Developer with a focus on
+Java backend development, Spring Boot, Microservices, software architecture,
+and object-oriented software engineering.
+</p>
+
+<p align="center">
+<a href="https://github.com/esmaeilsadeghijob">
+GitHub Profile: <strong>esmaeilsadeghijob</strong>
+</a>
 </p>
 
 <h2>Connect</h2>
 
 <p>
-Where you can find and connect with
-<a href="https://www.esmaeilsadeghi.ir/" target="_blank">Esmaeil</a>
-on social media, personal website, and GitHub.
+Connect with
+<a href="https://www.esmaeilsadeghi.ir/" target="_blank">Esmaeil Sadeghi</a>
+through his personal website, professional social profiles, and GitHub.
 </p>
 
 <table>
@@ -105,3 +132,11 @@ dr.esmail.sadeghi.h
 
 </tr>
 </table>
+
+<h2>Purpose</h2>
+
+<p align="justify">
+The purpose of this repository is to provide a practical environment for
+studying Java programming and data structures, developing problem-solving
+skills, and implementing fundamental algorithms through hands-on exercises.
+</p>
