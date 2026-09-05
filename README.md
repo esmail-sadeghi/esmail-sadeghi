@@ -88,21 +88,28 @@ dr.esmail.sadeghi.h
 
 <h2>GitHub</h2>
 
-<p align="center">
-  <a href="https://github.com/esmaeilsadeghijob" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"><br>
-    <b>esmaeilsadeghijob</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/javatr" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"><br>
-    <b>javatr</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ismaelsadeghicode" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"><br>
-    <b>ismaelsadeghicode</b>
-  </a>
-</p>
+<h2>GitHub</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/esmaeilsadeghijob">
+        <b>esmaeilsadeghijob</b>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/javatr">
+        <b>javatr</b>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/ismaelsadeghicode">
+        <b>ismaelsadeghicode</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </p>
