@@ -4,12 +4,6 @@
 As an accomplished Software Developer and Architect, I excel in object-oriented analysis and adeptly manage all phases of the software development lifecycle. From initial planning and design to implementation and ongoing maintenance, I focus on building robust and efficient software systems. With experience in N-tier and Microservices architectures, I work with a wide range of tools and technologies to develop reliable, maintainable, and high-quality software solutions.
 </p>
 
-<h2>About This Repository</h2>
-
-<p align="justify">
-This repository is dedicated to learning and practicing Java programming and data structures. It contains programming exercises, examples, implementations, and study materials covering fundamental and intermediate Java concepts.
-</p>
-
 <h2>Topics</h2>
 
 <p align="center">
@@ -88,28 +82,26 @@ dr.esmail.sadeghi.h
 
 <h2>GitHub</h2>
 
-<h2>GitHub</h2>
-
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/esmaeilsadeghijob">
-        <b>esmaeilsadeghijob</b>
-      </a>
-    </td>
+<tr>
 
-    <td align="center">
-      <a href="https://github.com/javatr">
-        <b>javatr</b>
-      </a>
-    </td>
+<td align="center">
+<a href="https://github.com/esmaeilsadeghijob">
+<b>esmaeilsadeghijob</b>
+</a>
+</td>
 
-    <td align="center">
-      <a href="https://github.com/ismaelsadeghicode">
-        <b>ismaelsadeghicode</b>
-      </a>
-    </td>
-  </tr>
+<td align="center">
+<a href="https://github.com/javatr">
+<b>javatr</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/ismaelsadeghicode">
+<b>ismaelsadeghicode</b>
+</a>
+</td>
+
+</tr>
 </table>
-
-</p>
