@@ -14,15 +14,7 @@ on social media, personal website, and GitHub.
 
 <table>
 <tr>
-
-<td align="center">
-<a href="https://www.esmaeilsadeghi.ir/" target="_blank">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="80"><br>
-<b>Website</b><br>
-esmaeilsadeghi.ir
-</a>
-</td>
-
+  
 <td align="center">
 <a href="https://www.linkedin.com/in/dr-esmaeil-sadeghi" target="_blank">
 <img src="https://www.habuma.com/img/linkedin.png" width="80"><br>
@@ -52,6 +44,14 @@ dr.esmail.sadeghi.h
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="80"><br>
 <b>YouTube</b><br>
 @esmailsadeghiii
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.esmaeilsadeghi.ir/" target="_blank">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="80"><br>
+<b>Website</b><br>
+esmaeilsadeghi.ir
 </a>
 </td>
 
