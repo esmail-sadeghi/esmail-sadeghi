@@ -8,45 +8,12 @@ As an accomplished Software Developer and Architect, I excel in object-oriented 
 
 <p>
 Where you can find and connect with
-<a href="https://www.esmaeilsadeghi.ir">Esmaeil</a>
-on social media and GitHub.
+<a href="https://www.esmaeilsadeghi.ir/" target="_blank">Esmaeil</a>
+on social media, personal website, and GitHub.
 </p>
 
 <table>
 <tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/dr-esmaeil-sadeghi">
-<img src="https://www.habuma.com/img/linkedin.png" width="80"><br>
-<b>LinkedIn</b><br>
-@dr-esmaeil-sadeghi
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.instagram.com/dr.esmail.sadeghi.h">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="80"><br>
-<b>Instagram</b><br>
-dr.esmail.sadeghi.h
-</a>
-</td>
-
-<td align="center">
-<a href="https://twitter.com/EsmailSadeghih">
-<img src="https://www.habuma.com/img/twitter.png" width="80"><br>
-<b>Twitter</b><br>
-@EsmailSadeghih
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.youtube.com/@esmailsadeghiii">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="80"><br>
-<b>YouTube</b><br>
-@esmailsadeghiii
-</a>
-</td>
-</tr>
-</table>
 
 <td align="center">
 <a href="https://www.esmaeilsadeghi.ir/" target="_blank">
@@ -55,6 +22,57 @@ dr.esmail.sadeghi.h
 esmaeilsadeghi.ir
 </a>
 </td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/dr-esmaeil-sadeghi" target="_blank">
+<img src="https://www.habuma.com/img/linkedin.png" width="80"><br>
+<b>LinkedIn</b><br>
+@dr-esmaeil-sadeghi
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="80"><br>
+<b>Instagram</b><br>
+dr.esmail.sadeghi.h
+</a>
+</td>
+
+<td align="center">
+<a href="https://twitter.com/EsmailSadeghih" target="_blank">
+<img src="https://www.habuma.com/img/twitter.png" width="80"><br>
+<b>Twitter</b><br>
+@EsmailSadeghih
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/@esmailsadeghiii" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="80"><br>
+<b>YouTube</b><br>
+@esmailsadeghiii
+</a>
+</td>
+
+</tr>
+</table>
+
+<h2>GitHub</h2>
+
+<p align="center">
+<a href="https://github.com/esmaeilsadeghijob" target="_blank">
+<b>esmaeilsadeghijob</b>
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/javatr" target="_blank">
+<b>javatr</b>
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/ismaelsadeghicode" target="_blank">
+<b>ismaelsadeghicode</b>
+</a>
+</p>
 
 <h2>GitHub</h2>
 
