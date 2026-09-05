@@ -1,4 +1,4 @@
-<h1 align="center">Esmaeil Sadeghi</h1>
+<h1 align="center">Esmail Sadeghi</h1>
 
 <h3 align="center">
 Software Developer | Java Backend Developer
