@@ -22,7 +22,7 @@ objects, inheritance, polymorphism, exception handling, collections, data
 structures, and algorithms.
 </p>
 
-<h2>Topics</h2>
+<h2>Topics</h2> 
 
 <p align="center">
 Java Programming &nbsp;·&nbsp;
