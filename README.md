@@ -2,59 +2,77 @@
 
 ### Software Engineer | Java Backend Developer | Software Architect
 
-Software Engineer focused on Java, Spring Boot, Microservices, Software Architecture, Distributed Systems, and Backend Development.
+<p align="center">
+  <a href="https://github.com/ismaelsadeghicode">
+    <img src="https://github.com/ismaelsadeghicode.png" width="120" height="120" alt="Esmail Sadeghi"/>
+  </a>
+</p>
 
-I am passionate about designing and developing reliable, scalable, maintainable, and high-quality software systems. My interests include software engineering, object-oriented programming, distributed systems, data structures, algorithms, and modern backend technologies.
+## About Me
 
-Over the past several years, I have maintained and developed software projects across multiple GitHub accounts. My development activities, repositories, and technical work can be explored through the following profiles.
+<p align="justify">
+I am Esmail Sadeghi, a Software Engineer and Java Backend Developer with a strong focus on Java, Spring Boot, Microservices, Software Architecture, and Distributed Systems. I am passionate about designing and developing scalable, reliable, and maintainable software systems. My professional interests include backend engineering, software architecture, cloud-native applications, and modern software development practices.
+</p>
 
----
+## GitHub Profiles
 
-## Technical Interests
-
-Java · Spring Boot · Spring Cloud · Microservices · Software Architecture · RESTful APIs · Distributed Systems · Object-Oriented Programming · Data Structures · Algorithms · Docker · Kubernetes · Kafka · PostgreSQL · MongoDB · Redis
-
----
-
-## GitHub Profiles & Development Activities
-
-My software development activities and repositories are distributed across three GitHub accounts. These profiles represent different areas of my programming activities, technical projects, and professional development over the past several years.
-
-| GitHub Account | Description |
-|---|---|
-| [**ismaelsadeghicode**](https://github.com/ismaelsadeghicode) | Personal software development projects and programming activities |
-| [**esmaeilsadeghijob**](https://github.com/esmaeilsadeghijob) | Professional software engineering projects and development activities |
-| [**javatr**](https://github.com/javatr) | Java programming and development-related activities |
-
-Explore my repositories and contributions through these profiles.
-
----
-
-## Java Programming & Data Structures
-
-This repository contains practical Java programming exercises, examples, and implementations related to programming fundamentals and data structures.
-
-Topics include object-oriented programming, arrays, methods, classes and objects, inheritance, polymorphism, exception handling, collections, data structures, and algorithms.
-
----
+<p align="center">
+  <a href="https://github.com/ismaelsadeghicode">
+    <img src="https://github.com/ismaelsadeghicode.png" width="100" height="100" alt="ismaelsadeghicode"/>
+    <br/>
+    <b>ismaelsadeghicode</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/esmaeilsadeghijob">
+    <img src="https://github.com/esmaeilsadeghijob.png" width="100" height="100" alt="esmaeilsadeghijob"/>
+    <br/>
+    <b>esmaeilsadeghijob</b>
+  </a>
+</p>
 
 ## Connect
 
-Where you can find and connect with **[Esmaeil Sadeghi](https://www.esmaeilsadeghi.ir/)** across professional networks, social media, and development platforms.
+<p align="center">
+  Where you can find and connect with
+  <a href="https://www.esmaeilsadeghi.ir" target="_blank">Esmaeil Sadeghi</a>
+  on social media.
+</p>
 
-| Platform | Profile |
-|---|---|
-| 🌐 Website | [esmaeilsadeghi.ir](https://www.esmaeilsadeghi.ir/) |
-| 💼 LinkedIn | [@dr-esmaeil-sadeghi](https://www.linkedin.com/in/dr-esmaeil-sadeghi) |
-| 📸 Instagram | [@dr.esmail.sadeghi.h](https://www.instagram.com/dr.esmail.sadeghi.h) |
-| 𝕏 Twitter / X | [@EsmailSadeghih](https://twitter.com/EsmailSadeghih) |
-| ▶️ YouTube | [@esmailsadeghiii](https://www.youtube.com/@esmailsadeghiii) |
-| 💻 GitHub | [@ismaelsadeghicode](https://github.com/ismaelsadeghicode) |
-| 💻 GitHub | [@esmaeilsadeghijob](https://github.com/esmaeilsadeghijob) |
-| 💻 GitHub | [@javatr](https://github.com/javatr) |
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a rel="me" href="https://www.linkedin.com/in/dr-esmaeil-sadeghi" target="_blank">
+        <img src="https://www.habuma.com/img/linkedin.png" height="80" alt="LinkedIn"/>
+        <h4>LinkedIn</h4>
+        <b>@dr-esmaeil-sadeghi</b>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a rel="me" href="https://www.instagram.com/dr.esmail.sadeghi.h" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="80" alt="Instagram"/>
+        <h4>Instagram</h4>
+        <b>dr.esmail.sadeghi.h</b>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a rel="me" href="https://twitter.com/EsmailSadeghih" target="_blank">
+        <img src="https://www.habuma.com/img/twitter.png" height="80" alt="Twitter"/>
+        <h4>Twitter / X</h4>
+        <b>@EsmailSadeghih</b>
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a rel="me" href="https://www.youtube.com/@esmailsadeghiii" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="80" alt="YouTube"/>
+        <h4>YouTube</h4>
+        <b>@esmailsadeghiii</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-## Purpose
-
-This repository serves as a practical resource for Java programming, data structures, algorithms, and software engineering fundamentals. It is part of my broader software development and programming activities across GitHub.
+<p align="center">
+  <a href="https://www.esmaeilsadeghi.ir" target="_blank">
+    <b>🌐 Personal Website</b>
+  </a>
+</p>
