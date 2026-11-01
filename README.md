@@ -10,19 +10,33 @@ I am Esmail Sadeghi, a Software Engineer and Java Backend Developer with a stron
 
 ## GitHub Profiles
 
-<p align="center">
-  <a href="https://github.com/ismaelsadeghicode">
-    <img src="https://github.com/ismaelsadeghicode.png" width="100" height="100" alt="ismaelsadeghicode"/>
-    <br/>
-    <b>ismaelsadeghicode</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/esmaeilsadeghijob">
-    <img src="https://github.com/esmaeilsadeghijob.png" width="100" height="100" alt="esmaeilsadeghijob"/>
-    <br/>
-    <b>esmaeilsadeghijob</b>
-  </a>
-</p>
+<h2 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" valign="middle"/>
+  GitHub Profiles
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ismaelsadeghicode">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" alt="GitHub"/>
+        <br/><br/>
+        <strong>ismaelsadeghicode</strong>
+      </a>
+      <br/>
+      <sub>Personal GitHub Account</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/esmaeilsadeghijob">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="90" alt="GitHub"/>
+        <br/><br/>
+        <strong>esmaeilsadeghijob</strong>
+      </a>
+      <br/>
+      <sub>Professional GitHub Account</sub>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
