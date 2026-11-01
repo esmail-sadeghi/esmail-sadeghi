@@ -8,8 +8,6 @@
 I am Esmail Sadeghi, a Software Engineer and Java Backend Developer with a strong focus on Java, Spring Boot, Microservices, Software Architecture, and Distributed Systems. I am passionate about designing and developing scalable, reliable, and maintainable software systems. My professional interests include backend engineering, software architecture, cloud-native applications, and modern software development practices.
 </p>
 
-## GitHub Profiles
-
 <h2 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" valign="middle"/>
   GitHub Profiles
