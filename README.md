@@ -2,12 +2,6 @@
 
 ### Software Engineer | Java Backend Developer | Software Architect
 
-<p align="center">
-  <a href="https://github.com/ismaelsadeghicode">
-    <img src="https://github.com/ismaelsadeghicode.png" width="120" height="120" alt="Esmail Sadeghi"/>
-  </a>
-</p>
-
 ## About Me
 
 <p align="justify">
